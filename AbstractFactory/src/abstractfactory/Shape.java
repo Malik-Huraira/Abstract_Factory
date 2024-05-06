@@ -7,7 +7,7 @@ package abstractfactory;
 
 /**
  *
- * @author sp21-bse-066
+ * @author sp21-bse-043
  */
 public interface Shape {
    void draw();
