@@ -7,7 +7,7 @@ package abstractfactory;
 
 /**
  *
- * @author sp21-bse-066
+ * @author sp21-bse-043
  */
 public class DoubleBorderdTriangle implements Shape {
    @Override
