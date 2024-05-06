@@ -7,7 +7,7 @@ package abstractfactory;
 
 /**
  *
- * @author sp21-bse-066
+ * @author sp21-bse-043
  */
 public abstract class AbstractFactory {
    abstract Shape getShape(String shapeType) ;
